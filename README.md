@@ -1,5 +1,8 @@
 # openCAESAR Platform
 
+![openCAESAR](openCAESAR.png)
+
+
 This is the main repository for engaging with the openCAESAR platform community.
 
 ## Opening Issues
