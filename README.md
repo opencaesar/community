@@ -3,7 +3,11 @@
 ![openCAESAR](openCAESAR.png)
 
 
-This is the main repository for engaging with the openCAESAR platform community.
+This is the main repository for engaging with the openCAESAR community.
+
+## Starting Discussions
+
+If you have a question on your mind, or you want to start a discussion with members of the openCAESAR community, please try our new [Discussions](https://github.com/opencaesar/platform/discussions) page.
 
 ## Opening Issues
 
